@@ -1,4 +1,4 @@
-# Section 1: Define Base Image
+# Define Base Image
 FROM python:3.12-slim
 
 # Set Working Directory
